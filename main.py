@@ -12,8 +12,8 @@ from PIL import Image, UnidentifiedImageError
 from fpdf import FPDF
 
 # Bot configurations
-API_ID = API_ID  # Your API_ID
-API_HASH = "HASH"  # Your API_HASH
+API_ID = "23159366"  # Your API_ID
+API_HASH = "6709214002:AAGU06B60yunU2WIcw-aG0SMjxRtbYAUAzw"  # Your API_HASH
 BOT_TOKEN = "TOKEN"  # Your BOT_TOKEN
 
 # Initialize the bot
