@@ -13,8 +13,8 @@ from fpdf import FPDF
 
 # Bot configurations
 API_ID = "23159366"  # Your API_ID
-API_HASH = "U06B60yunU2WIcw-aG0SMjxRtbYAUAzw"  # Your API_HASH
-BOT_TOKEN = "TOKEN"  # Your BOT_TOKEN
+API_HASH = "4623dd30dd1303bddb729eb0862262d9"  # Your API_HASH
+BOT_TOKEN = "6709214002:AAGzgEZgNvOp8iB37VAUhv0yDqv6ZUy7lF4"  # Your BOT_TOKEN
 
 # Initialize the bot
 app = Client("book_downloader_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
